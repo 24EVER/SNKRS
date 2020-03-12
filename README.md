@@ -1,2 +1,2 @@
 # SNKRS
-SNKRS UI Automation
+SNKRS iOS UI Automation
